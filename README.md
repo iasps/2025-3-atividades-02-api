@@ -16,7 +16,7 @@ Ao final desta atividade, o aluno será capaz de:
 
 Use este checklist para acompanhar seu progresso durante a implementação da API de tarefas.
 
-## ✅ Pré-requisitos e Configuração
+## ✅ Pré-requisitos e Configuração 
 
 ### Verificação do Ambiente
 - [ ] Node.js (v18+) instalado e funcionando
